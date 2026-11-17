@@ -1,0 +1,2 @@
+#!/bin/bash
+python -m ipykernel install --sys-prefix --name breast-cancer-ai --display-name "Breast Cancer AI"
